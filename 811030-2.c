@@ -1,5 +1,5 @@
 int main(){
-    printf("¼B«Û§¡\n");
+    printf("åŠ‰å½¥å‡\n");
     return 0;
 
 }
